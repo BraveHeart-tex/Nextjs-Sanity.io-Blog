@@ -6,7 +6,7 @@ You can check out the live demo of this application via this [link](https://next
 2. Next.js
 3. Sanity.io for content management
 4. React form Library for validation
-
+5. Typescript
 
 ## Deploy your own
 
