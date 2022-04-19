@@ -1,6 +1,12 @@
-# Next.js + Tailwind CSS Example
+# Live Demo
+You can check out the live demo of this application via this [link](https://nextjs-sanity-io-blog.vercel.app/) on Vercel.
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+## Technologies Used
+1. React.js
+2. Next.js
+3. Sanity.io for content management
+4. React form Library for validation
+
 
 ## Deploy your own
 
