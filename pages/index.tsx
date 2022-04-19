@@ -1,4 +1,3 @@
-import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -16,7 +15,7 @@ interface Props {
   posts: Post[]
 }
 
-const Home: NextPage = ({ posts }: Props) => {
+const Home = ({ posts }: Props) => {
   return (
     <div className="mx-auto max-w-7xl">
       <Head>
